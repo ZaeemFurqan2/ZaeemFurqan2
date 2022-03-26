@@ -32,7 +32,7 @@ p {
 .mainDetails {
 	padding: 25px 35px;
 	border-bottom: 2px solid #A89B8C;
-	background: #33b82c;
+	background: #F0DFAD;
 }
 
 #name h1 {
@@ -100,7 +100,7 @@ p {
 
 
 section {
-	border-top: 1px solid #5BC0BE;
+	border-top: 1px solid #F0DFAD;
 	padding: 20px 0 0;
 }
 
@@ -126,7 +126,7 @@ section:last-child {
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 	font-style: italic;
 	font-size: 1.5em;
-	color: #6FFFE9;
+	color: #F0DFAD;
 }
 
 .sectionTitle img {
