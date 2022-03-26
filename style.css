@@ -11,7 +11,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #0B132B; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #50AAA9;}
+html, body {background: #8F5C38; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #EDF0DA;}
 
 .clear {clear: both;}
 
@@ -25,13 +25,13 @@ p {
 #cv {
 	width: 90%;
 	max-width: 800px;
-	background: #4fb837;
+	background: #F0DFAD;
 	margin: 30px auto;
 }
 
 .mainDetails {
 	padding: 25px 35px;
-	border-bottom: 2px solid #5BC0BE;
+	border-bottom: 2px solid #A89B8C;
 	background: #33b82c;
 }
 
@@ -95,7 +95,7 @@ p {
 }
 
 #contactDetails ul li a:hover { 
-	color: #6FFFE9;
+	color: #F0DFAD;
 }
 
 
@@ -147,7 +147,7 @@ section:last-child {
 }
 
 .sectionContent img {
-	border: 2px solid #50AAA9;
+	border: 2px solid #F0DFAD;
 }
 
 .subDetails {
@@ -163,7 +163,7 @@ section:last-child {
 	column-count:3;
 	margin-bottom: 20px;
 	font-size: 1em;
-	color: #50AAA9;
+	color: #EDF0DA;
 }
 
 .keySkills ul li {
