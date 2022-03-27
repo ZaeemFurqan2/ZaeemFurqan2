@@ -126,7 +126,7 @@ section:last-child {
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 	font-style: italic;
 	font-size: 1.5em;
-	color: #F0DFAD;
+	color: #CD853F;
 }
 
 .sectionTitle img {
@@ -147,7 +147,7 @@ section:last-child {
 }
 
 .sectionContent img {
-	border: 2px solid #F0DFAD;
+	border: 2px solid #CD853F;
 }
 
 .subDetails {
