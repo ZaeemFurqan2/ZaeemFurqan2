@@ -11,7 +11,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #8F5C38; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #EDF0DA;}
+html, body {background: #8F5C38; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #CD853F;}
 
 .clear {clear: both;}
 
@@ -100,7 +100,7 @@ p {
 
 
 section {
-	border-top: 1px solid #F0DFAD;
+	border-top: 1px solid #CD853F;
 	padding: 20px 0 0;
 }
 
