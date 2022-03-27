@@ -25,7 +25,7 @@ p {
 #cv {
 	width: 90%;
 	max-width: 800px;
-	background: #F0DFAD;
+	background: #CD853F;
 	margin: 30px auto;
 }
 
@@ -81,11 +81,11 @@ p {
 
 #contactDetails ul li {
 	margin-bottom: 3px;
-	color: #0B132B;
+	color: #CD853F;
 }
 
 #contactDetails ul li a, a[href^=tel] {
-	color: #0B132B; 
+	color: #CD853F; 
 	text-decoration: none;
 	-webkit-transition: all .3s ease-in;
 	-moz-transition: all .3s ease-in;
@@ -95,7 +95,7 @@ p {
 }
 
 #contactDetails ul li a:hover { 
-	color: #F0DFAD;
+	color: #CD853F;
 }
 
 
